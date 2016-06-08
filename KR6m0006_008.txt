@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:08.225235
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:30
 #+TITLE: 中觀論疏
 #+PROPERTY: CBETA_ID T42n1824
 #+PROPERTY: ID KR6m0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 42, No. 1824
 #+PROPERTY: VOL 42
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0006_T_008-0116a> 
 #+PROPERTY: JUAN 8
 ¶
-
- 第八本中觀論疏卷第八(本)¶
+中觀論疏卷第八(本)¶
 ¶
 釋吉藏撰¶
 
-17業品(八本)
-:PROPERTIES:
-:head: 業品第十七
-:END:
-¶
+* 業品第十七¶
 
 此品為五人故來。一有我部。謂有人能造業。¶
 業得果。有人作有人受。破此見故有此品。¶
@@ -696,16 +691,11 @@
 中觀論疏卷第八(本)¶
 ¶
 ¶
-
- 第八末中觀論疏卷第八(末)¶
+中觀論疏卷第八(末)¶
 ¶
 釋吉藏撰¶
 
-18法品(八末)
-:PROPERTIES:
-:head: 法品第十八
-:END:
-¶
+* 法品第十八¶
 
 此品所以來者凡有三義。一明通方觀行。前¶
 觀業空今觀法空。二者破病故來。從初品至¶
@@ -1320,11 +1310,7 @@
 問三根俱入實相云何異。答二乘隨分。菩薩¶
 盡原也。¶
 
-19時品(八末)
-:PROPERTIES:
-:head: 時品第十九
-:END:
-¶
+* 時品第十九¶
 
 所以有此品來者。二十一品開為三章。第一¶
 十七品破洗迷情顯中道實相。第二法品迷¶

@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:07.950606
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:30
 #+TITLE: 中觀論疏
 #+PROPERTY: CBETA_ID T42n1824
 #+PROPERTY: ID KR6m0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 42, No. 1824
 #+PROPERTY: VOL 42
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0006_T_003-0034a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 第三本中觀論疏卷第三(本)¶
+中觀論疏卷第三(本)¶
 ¶
 釋吉藏撰¶
 
-:PROPERTIES:
-:head: 因緣品第一
-:END:
-¶
+* 因緣品第一¶
 
 以此二偈歎佛下第二次明釋八不。開為二。¶
 第一青目釋八不。第二龍樹自釋八不。就初¶
@@ -913,15 +909,11 @@
 中觀論疏卷第三(本)¶
 ¶
 ¶
-
- 第三末中觀論疏卷第三(末)¶
+中觀論疏卷第三(末)¶
 ¶
 釋吉藏撰¶
 
-:PROPERTIES:
-:head: 因緣品第一
-:END:
-¶
+* 因緣品第一¶
 
 問曰阿毘曇人云諸法從四緣生下。第二外¶
 人舉四緣救義。此救從三處生。一者從八不¶
@@ -1622,7 +1614,7 @@
 增上緣也。又此論破四緣意欲顯十二無生。¶
 上以破十二中三緣故。今破十二中增上緣¶
 也。佛隨凡夫分別有無故說者。此釋破立之¶
-意。論主破之經不應明有。經若明有而須破¶
+意。輪主破之經不應明有。經若明有而須破¶
 者即是破經。故今明。若據理則無。但隨凡
 <pb:KR6m0006_T_003-0052a>¶
 夫分別故說有耳。佛說有無則明不二。汝但¶

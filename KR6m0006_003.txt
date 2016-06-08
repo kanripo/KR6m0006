@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:07.950606
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:30
 #+TITLE: 中觀論疏
 #+PROPERTY: CBETA_ID T42n1824
 #+PROPERTY: ID KR6m0006
@@ -12,7 +12,8 @@
 ¶
 ¶
 
- 第三本中觀論疏卷第三(本)¶
+ 第三本
+** 3中觀論疏卷第三(本)¶
 ¶
 釋吉藏撰¶
 
